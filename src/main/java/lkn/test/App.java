@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * 添加对应的注释
  * Hello world!
  */
 public class App {
